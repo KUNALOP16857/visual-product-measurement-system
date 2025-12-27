@@ -219,3 +219,5 @@ The project can be run locally using Python without requiring any paid API keys.
 ### Dependencies
 All dependencies are listed in `requirements.txt`.  
 The project uses only open-source libraries and does not require paid API keys.
+
+Note: The notebook is optimized for GitHub rendering; interactive widgets are removed for compatibility.
