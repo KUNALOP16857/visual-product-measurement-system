@@ -1,4 +1,4 @@
-Package             	Purpose
+Package with            	Purpose
 
 1.torch->	           Core deep learning framework
 2.torchvision->	       Image preprocessing
