@@ -1,0 +1,282 @@
+[
+  {
+    "product_id": 231031,
+    "image_count": 5,
+    "visual_description": "made from wood metal",
+    "analysis": {
+      "scores": {
+        "gender_expression": -1.52,
+        "visual_weight": -2.166,
+        "embellishment": -2.3600000000000003,
+        "unconventionality": 1.0,
+        "formality": 1.0
+      },
+      "attributes": {
+        "wirecore": true,
+        "frame_geometry": "ambiguous",
+        "transparency": "transparent",
+        "dominant_colors": [
+          "brown"
+        ],
+        "textures": [
+          "smooth"
+        ],
+        "suitable_for_kids": true
+      },
+      "confidence": 0.85,
+      "notes": "Derived exclusively from observable visual characteristics."
+    }
+  },
+  {
+    "product_id": 237793,
+    "image_count": 6,
+    "visual_description": "black made from white background metal have clear titanium",
+    "analysis": {
+      "scores": {
+        "gender_expression": -2.066666666666667,
+        "visual_weight": -2.481666666666667,
+        "embellishment": -2.69,
+        "unconventionality": 1.0,
+        "formality": 1.0
+      },
+      "attributes": {
+        "wirecore": true,
+        "frame_geometry": "ambiguous",
+        "transparency": "transparent",
+        "dominant_colors": [
+          "clear"
+        ],
+        "textures": [
+          "smooth"
+        ],
+        "suitable_for_kids": true
+      },
+      "confidence": 0.85,
+      "notes": "Derived exclusively from observable visual characteristics."
+    }
+  },
+  {
+    "product_id": 231027,
+    "image_count": 5,
+    "visual_description": "made from wood metal have clear lenses titanium",
+    "analysis": {
+      "scores": {
+        "gender_expression": -2.19,
+        "visual_weight": -2.134,
+        "embellishment": -1.686,
+        "unconventionality": 1.0,
+        "formality": 1.0
+      },
+      "attributes": {
+        "wirecore": true,
+        "frame_geometry": "ambiguous",
+        "transparency": "transparent",
+        "dominant_colors": [
+          "brown"
+        ],
+        "textures": [
+          "smooth"
+        ],
+        "suitable_for_kids": true
+      },
+      "confidence": 0.85,
+      "notes": "Derived exclusively from observable visual characteristics."
+    }
+  },
+  {
+    "product_id": 237372,
+    "image_count": 7,
+    "visual_description": "clear have o mat lenses made from plastic both one",
+    "analysis": {
+      "scores": {
+        "gender_expression": -1.6842857142857144,
+        "visual_weight": -2.2057142857142855,
+        "embellishment": -2.5471428571428567,
+        "unconventionality": 1.0,
+        "formality": 0.0
+      },
+      "attributes": {
+        "wirecore": false,
+        "frame_geometry": "ambiguous",
+        "transparency": "transparent",
+        "dominant_colors": [
+          "clear"
+        ],
+        "textures": [
+          "smooth"
+        ],
+        "suitable_for_kids": true
+      },
+      "confidence": 0.85,
+      "notes": "Derived exclusively from observable visual characteristics."
+    }
+  },
+  {
+    "product_id": 231002,
+    "image_count": 5,
+    "visual_description": "made from titanium black clear white background lenses have",
+    "analysis": {
+      "scores": {
+        "gender_expression": -2.562,
+        "visual_weight": -2.284,
+        "embellishment": -2.93,
+        "unconventionality": 1.0,
+        "formality": 0.0
+      },
+      "attributes": {
+        "wirecore": false,
+        "frame_geometry": "ambiguous",
+        "transparency": "transparent",
+        "dominant_colors": [
+          "clear"
+        ],
+        "textures": [
+          "smooth"
+        ],
+        "suitable_for_kids": true
+      },
+      "confidence": 0.85,
+      "notes": "Derived exclusively from observable visual characteristics."
+    }
+  },
+  {
+    "product_id": 231006,
+    "image_count": 5,
+    "visual_description": "made from black titanium available white background silver clear plastic have",
+    "analysis": {
+      "scores": {
+        "gender_expression": -2.0,
+        "visual_weight": -2.284,
+        "embellishment": -2.38,
+        "unconventionality": 1.0,
+        "formality": 0.0
+      },
+      "attributes": {
+        "wirecore": false,
+        "frame_geometry": "ambiguous",
+        "transparency": "transparent",
+        "dominant_colors": [
+          "clear"
+        ],
+        "textures": [
+          "smooth"
+        ],
+        "suitable_for_kids": true
+      },
+      "confidence": 0.85,
+      "notes": "Derived exclusively from observable visual characteristics."
+    }
+  },
+  {
+    "product_id": 237794,
+    "image_count": 6,
+    "visual_description": "black clear have rims made from titanium white background",
+    "analysis": {
+      "scores": {
+        "gender_expression": -2.22,
+        "visual_weight": -2.3866666666666667,
+        "embellishment": -2.2266666666666666,
+        "unconventionality": 1.0,
+        "formality": 0.0
+      },
+      "attributes": {
+        "wirecore": false,
+        "frame_geometry": "ambiguous",
+        "transparency": "transparent",
+        "dominant_colors": [
+          "clear"
+        ],
+        "textures": [
+          "smooth"
+        ],
+        "suitable_for_kids": true
+      },
+      "confidence": 0.85,
+      "notes": "Derived exclusively from observable visual characteristics."
+    }
+  },
+  {
+    "product_id": 231009,
+    "image_count": 6,
+    "visual_description": "made from black metal have titanium available sunglasses pink lens clear silver",
+    "analysis": {
+      "scores": {
+        "gender_expression": -2.0316666666666667,
+        "visual_weight": -2.1716666666666664,
+        "embellishment": -2.688333333333333,
+        "unconventionality": 1.0,
+        "formality": 1.0
+      },
+      "attributes": {
+        "wirecore": true,
+        "frame_geometry": "ambiguous",
+        "transparency": "transparent",
+        "dominant_colors": [
+          "black"
+        ],
+        "textures": [
+          "smooth"
+        ],
+        "suitable_for_kids": true
+      },
+      "confidence": 0.85,
+      "notes": "Derived exclusively from observable visual characteristics."
+    }
+  },
+  {
+    "product_id": 237321,
+    "image_count": 7,
+    "visual_description": "ace made from gold metal have rim silver white background",
+    "analysis": {
+      "scores": {
+        "gender_expression": -0.2771428571428571,
+        "visual_weight": -1.6157142857142859,
+        "embellishment": -0.32142857142857145,
+        "unconventionality": 1.0,
+        "formality": 1.0
+      },
+      "attributes": {
+        "wirecore": true,
+        "frame_geometry": "ambiguous",
+        "transparency": "transparent",
+        "dominant_colors": [
+          "brown"
+        ],
+        "textures": [
+          "smooth"
+        ],
+        "suitable_for_kids": true
+      },
+      "confidence": 0.85,
+      "notes": "Derived exclusively from observable visual characteristics."
+    }
+  },
+  {
+    "product_id": 231023,
+    "image_count": 5,
+    "visual_description": "gold made from black clear rim shown lenses",
+    "analysis": {
+      "scores": {
+        "gender_expression": -0.772,
+        "visual_weight": -2.31,
+        "embellishment": -2.316,
+        "unconventionality": 1.0,
+        "formality": 0.0
+      },
+      "attributes": {
+        "wirecore": false,
+        "frame_geometry": "ambiguous",
+        "transparency": "transparent",
+        "dominant_colors": [
+          "clear"
+        ],
+        "textures": [
+          "smooth"
+        ],
+        "suitable_for_kids": true
+      },
+      "confidence": 0.85,
+      "notes": "Derived exclusively from observable visual characteristics."
+    }
+  }
+]
