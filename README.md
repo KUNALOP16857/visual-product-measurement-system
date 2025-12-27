@@ -8,39 +8,6 @@ The system avoids manual tagging and business-driven categorization. Instead, it
 ---
 
 ## High Level Architecture Diagram
-flowchart TD
-    A["Product Catalog<br/>(Excel File)"] -->|Image URLs| B["Image Loader"]
-
-    B -->|Valid Images| C1["BLIP Model<br/>Visual Captioning"]
-    B -->|Valid Images| C2["CLIP Model<br/>Vision–Text Similarity"]
-    B -->|Valid Images| C3["OpenCV Analysis<br/>Pixel-Level Features"]
-
-    C1 -->|Visual Descriptions| D["Reasoning & Aggregation Layer"]
-    C2 -->|Semantic Similarity Scores| D
-    C3 -->|Brightness, Edges, Geometry| D
-
-    D -->|Multi-image Aggregation| E["Visual Measurement Engine"]
-    E -->|Score Calibration| F["Standardized Scores<br/>(−5.0 to +5.0)"]
-    E -->|Attribute Detection| G["Visual Attributes<br/>(Color, Geometry, Transparency)"]
-
-    F --> H["Structured JSON Output"]
-    G --> H
-
-    H --> I["Human-Readable PDF Report"]
-
-    %% Styling
-    style A fill:#f9f9f9,stroke:#333,stroke-width:1px
-    style B fill:#e3f2fd,stroke:#333,stroke-width:1px
-    style C1 fill:#fff3e0,stroke:#333,stroke-width:1px
-    style C2 fill:#fff3e0,stroke:#333,stroke-width:1px
-    style C3 fill:#fff3e0,stroke:#333,stroke-width:1px
-    style D fill:#e8f5e9,stroke:#333,stroke-width:1px
-    style E fill:#e8f5e9,stroke:#333,stroke-width:1px
-    style F fill:#ede7f6,stroke:#333,stroke-width:1px
-    style G fill:#ede7f6,stroke:#333,stroke-width:1px
-    style H fill:#fce4ec,stroke:#333,stroke-width:1px
-    style I fill:#fce4ec,stroke:#333,stroke-width:1px
-
 The Diagram is present in HighLevelArchitecture.png and explained in explained in explained.md
 
 ## What the System Does
