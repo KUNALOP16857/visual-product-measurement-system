@@ -126,7 +126,6 @@ This decision preserves the core requirement of **vision-enabled AI analysis** w
 
 - Frame geometry inference for thin objects can be ambiguous
 - Image quality and viewpoint diversity affect confidence
-- No model fine-tuning (inference-only system)
 - Performance depends on the quality of vision-language prompts
 
 ---
