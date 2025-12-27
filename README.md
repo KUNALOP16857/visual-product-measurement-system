@@ -8,7 +8,7 @@ The system avoids manual tagging and business-driven categorization. Instead, it
 ---
 
 ## High Level Architecture Diagram
-The Diagram is present in HighLevelArchitecture.png and explained in explained in explained.md
+The Diagram is present in HighLevelArchitecture.png and all libraries explained in explained.md
 
 ## What the System Does
 - Accepts **one or more images per product**
