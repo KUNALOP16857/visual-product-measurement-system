@@ -158,7 +158,7 @@ The system uses lightweight validation logic to ensure consistency, robustness, 
   - Products with no valid images are ignored safely
 ---
 
-## How to Run (Google Colab)
+## Steps for How to Run (Google Colab)
 
 1. Open the notebook in **Google Colab**
 2. Upload the Excel dataset
@@ -168,7 +168,7 @@ The system uses lightweight validation logic to ensure consistency, robustness, 
 
 ---
 
-## Setup Instructions (Local)
+## Alternate Setup Instructions (Local)
 
 The project can be run locally using Python without requiring any paid API keys.
 
@@ -176,7 +176,6 @@ The project can be run locally using Python without requiring any paid API keys.
 
 - Python 3.9 or higher
 - Git
-- Virtual environment tool (optional but recommended)
 
 ### Installation Steps
 
@@ -191,19 +190,6 @@ The project can be run locally using Python without requiring any paid API keys.
 2. Install dependencies:
    pip install -r requirements.txt
 
-## Steps to Run the Assignment Locally (Jupyter)
-
-1. Open the Jupyter notebook:
-
-   ```bash
-   jupyter notebook visual_product_measurement.ipynb
-
-   ```
-
-2. Update the Excel file path in the notebook if required.
-3. Run all cells from top to bottom.
-4. Inspect the structured JSON output printed in the notebook.
-5. The formatted PDF report will be generated in the project directory.
 
 ## Technologies Used
 
